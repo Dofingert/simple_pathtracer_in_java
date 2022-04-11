@@ -1,0 +1,1 @@
+java -jar .\SimplePathTracer.jar -mtl renderRes\testMiku.mtl -obj renderRes\cornell_export.obj -obj renderRes\testMiku.obj -obj renderRes\baller.obj -res 1440 1440 -sr 32 -sky 1 -depth 8 -out 1440p32s.png

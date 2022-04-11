@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimplePathTracer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimplePathTracer_jar</output-path>
+    <root id="archive" name="SimplePathTracer.jar">
+      <element id="module-output" name="SimplePathTracer" />
+    </root>
+  </artifact>
+</component>

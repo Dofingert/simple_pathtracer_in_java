@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RayTracing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RayTracing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
